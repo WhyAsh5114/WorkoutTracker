@@ -15,3 +15,4 @@
 6. Automated volume changes and fatigue indicators
 7. Suggested recovery management tools (deloads, recovery half-weeks)
 8. Statistics
+9. Warm up sets, optional feature sets (myorep, dropsets, myorep-match)
